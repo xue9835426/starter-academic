@@ -29,7 +29,8 @@ education:
     institution: The University of Tokyo
     year: 2019-now
   - course: MEng in Mechanical Engineering
-    institution: Taiyuan University of Technology;State Key Laboratory of Explosion Science and Technology, Beijing institute of Technology
+    institution: Taiyuan University of Technology;
+State Key Laboratory of Explosion Science and Technology, Beijing institute of Technology
     year: 2018
   - course: BSc in Urban Underground Space Engineering
     institution: Taiyuan University of Technology
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: xue9835426@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
