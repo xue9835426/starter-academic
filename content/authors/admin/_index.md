@@ -32,7 +32,7 @@ education:
     institution: Taiyuan University of Technology
     year: 2018
   - course: MEng in Mechanical Engineering
-    institution: State Key Laboratory of Explosion Science and Technology, Beijing institute of Technology
+    institution: State Key Laboratory of Explosion Science and Technology, Beijing Institute of Technology
     year: 2018
   - course: BSc in Urban Underground Space Engineering
     institution: Taiyuan University of Technology
